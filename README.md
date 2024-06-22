@@ -1,0 +1,1 @@
+Shell terminal in Go.
